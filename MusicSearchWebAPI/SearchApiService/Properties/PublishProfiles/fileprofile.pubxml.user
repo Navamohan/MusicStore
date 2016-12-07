@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\NavMusicXboxUI</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\Publish_NavMusicXboxUI_IIS</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/HelpPage/HelpPage.css">
@@ -77,6 +77,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/Antlr3.Runtime.pdb">
       <publishTime>02/22/2013 09:43:40</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>12/07/2016 19:49:52</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>12/07/2016 19:49:52</publishTime>
     </File>
     <File Include="bin/AutoMapper.dll">
       <publishTime>11/23/2016 23:51:42</publishTime>
@@ -190,7 +196,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/SearchApiService.dll">
-      <publishTime>12/07/2016 17:56:38</publishTime>
+      <publishTime>12/07/2016 19:49:40</publishTime>
     </File>
     <File Include="bin/SearchApiService.pdb">
       <publishTime>12/07/2016 17:56:38</publishTime>
@@ -279,6 +285,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="packages.config">
       <publishTime>12/05/2016 18:46:02</publishTime>
     </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/07/2016 19:49:42</publishTime>
+    </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>12/05/2016 12:11:22</publishTime>
     </File>
@@ -337,7 +346,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/05/2016 12:11:14</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/07/2016 17:56:39</publishTime>
+      <publishTime>12/07/2016 19:49:40</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicStoreDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="artist">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="globalid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="begindate" Type="datetime" />
+    <Property Name="enddate" Type="datetime" />
+    <Property Name="artisttype" Type="varchar" MaxLength="255" />
+    <Property Name="gender" Type="varchar" MaxLength="6" />
+    <Property Name="country" Type="char" MaxLength="2" />
+  </EntityType>
+  <EntityType Name="artistalias">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="artist" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="artistrelease">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="artistid" Type="int" Nullable="false" />
+    <Property Name="releaseid" Type="int" Nullable="false" />
+    <Property Name="artistcount" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="release">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="globalid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="status" Type="varchar" MaxLength="255" />
+    <Property Name="label" Type="varchar" MaxLength="255" />
+    <Property Name="mediatype" Type="varchar" MaxLength="20" />
+    <Property Name="releasedate" Type="datetime" />
+    <Property Name="language" Type="varchar" MaxLength="20" />
+    <Property Name="additionaldetails" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="trackscount" Type="int" />
+  </EntityType>
+  <Association Name="FK_artistalias_artist">
+    <End Role="artist" Type="Self.artist" Multiplicity="1" />
+    <End Role="artistalias" Type="Self.artistalias" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="artist">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="artistalias">
+        <PropertyRef Name="artist" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_artistrelease_artist">
+    <End Role="artist" Type="Self.artist" Multiplicity="1" />
+    <End Role="artistrelease" Type="Self.artistrelease" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="artist">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="artistrelease">
+        <PropertyRef Name="artistid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_artistrelease_release">
+    <End Role="release" Type="Self.release" Multiplicity="1" />
+    <End Role="artistrelease" Type="Self.artistrelease" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="release">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="artistrelease">
+        <PropertyRef Name="releaseid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MusicStoreDbModelStoreContainer">
+    <EntitySet Name="artist" EntityType="Self.artist" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="artistalias" EntityType="Self.artistalias" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="artistrelease" EntityType="Self.artistrelease" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="release" EntityType="Self.release" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_artistalias_artist" Association="Self.FK_artistalias_artist">
+      <End Role="artist" EntitySet="artist" />
+      <End Role="artistalias" EntitySet="artistalias" />
+    </AssociationSet>
+    <AssociationSet Name="fk_artistrelease_artist" Association="Self.fk_artistrelease_artist">
+      <End Role="artist" EntitySet="artist" />
+      <End Role="artistrelease" EntitySet="artistrelease" />
+    </AssociationSet>
+    <AssociationSet Name="fk_artistrelease_release" Association="Self.fk_artistrelease_release">
+      <End Role="release" EntitySet="release" />
+      <End Role="artistrelease" EntitySet="artistrelease" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

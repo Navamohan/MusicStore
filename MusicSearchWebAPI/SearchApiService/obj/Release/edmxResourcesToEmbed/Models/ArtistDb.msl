@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MusicStoreDbModelStoreContainer" CdmEntityContainer="MusicStoreDbEntities">
+    <EntitySetMapping Name="artists">
+      <EntityTypeMapping TypeName="MusicStoreDbModel.artist">
+        <MappingFragment StoreEntitySet="artist">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="globalid" ColumnName="globalid" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="begindate" ColumnName="begindate" />
+          <ScalarProperty Name="enddate" ColumnName="enddate" />
+          <ScalarProperty Name="artisttype" ColumnName="artisttype" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="country" ColumnName="country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="artistalias">
+      <EntityTypeMapping TypeName="MusicStoreDbModel.artistalia">
+        <MappingFragment StoreEntitySet="artistalias">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="artist" ColumnName="artist" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="artistreleases">
+      <EntityTypeMapping TypeName="MusicStoreDbModel.artistrelease">
+        <MappingFragment StoreEntitySet="artistrelease">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="artistid" ColumnName="artistid" />
+          <ScalarProperty Name="releaseid" ColumnName="releaseid" />
+          <ScalarProperty Name="artistcount" ColumnName="artistcount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="releases">
+      <EntityTypeMapping TypeName="MusicStoreDbModel.release">
+        <MappingFragment StoreEntitySet="release">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="globalid" ColumnName="globalid" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="label" ColumnName="label" />
+          <ScalarProperty Name="mediatype" ColumnName="mediatype" />
+          <ScalarProperty Name="releasedate" ColumnName="releasedate" />
+          <ScalarProperty Name="language" ColumnName="language" />
+          <ScalarProperty Name="additionaldetails" ColumnName="additionaldetails" />
+          <ScalarProperty Name="trackscount" ColumnName="trackscount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
