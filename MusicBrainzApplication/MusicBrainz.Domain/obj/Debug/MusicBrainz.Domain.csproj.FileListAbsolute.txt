@@ -1,0 +1,10 @@
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\bin\Debug\MusicBrainz.Domain.dll.config
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\bin\Debug\MusicBrainz.Domain.dll
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\bin\Debug\MusicBrainz.Domain.pdb
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\bin\Debug\EntityFramework.dll
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\bin\Debug\EntityFramework.xml
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\obj\Debug\MusicBrainz.Domain.csprojResolveAssemblyReference.cache
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\obj\Debug\MusicBrainz.Domain.dll
+D:\Assignment\MusicStore\MusicBrainzApplication\MusicBrainz.Domain\obj\Debug\MusicBrainz.Domain.pdb

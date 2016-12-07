@@ -1,0 +1,240 @@
+﻿{
+  "created": "2016-12-01T09:51:33.091Z",
+  "count": 9,
+  "offset": 1,
+  "artists": [
+    {
+      "id": "f1a6f71c-eb25-4cf0-97e3-371f678bf8cc",
+      "type": "Person",
+      "score": "100",
+      "name": "Gaga",
+      "sort-name": "Gaga",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "name": "Hungary",
+        "sort-name": "Hungary"
+      },
+      "begin-area": {
+        "id": "b10d71db-77e2-4c30-ac51-f9565bff3a54",
+        "name": "Miskolc",
+        "sort-name": "Miskolc"
+      },
+      "disambiguation": "techno, alias for Gábor Szabó",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "minimal"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "tech house"
+        }
+      ]
+    },
+    {
+      "id": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+      "type": "Person",
+      "score": "65",
+      "name": "Lady Gaga",
+      "sort-name": "Lady Gaga",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "name": "United States",
+        "sort-name": "United States"
+      },
+      "begin-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "name": "Manhattan",
+        "sort-name": "Manhattan"
+      },
+      "ipis": [ "00519338442", "00519338540" ],
+      "life-span": {
+        "begin": "1986-03-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lady Ga Ga",
+          "name": "Lady Ga Ga",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Germanotta, Stefani Joanne Angelina",
+          "name": "Stefani Joanne Angelina Germanotta",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 2,
+          "name": "electropop"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "united states"
+        },
+        {
+          "count": 0,
+          "name": "the fame"
+        },
+        {
+          "count": 0,
+          "name": "gata rahe mera dil"
+        },
+        {
+          "count": 0,
+          "name": "edge of glory"
+        }
+      ]
+    },
+    {
+      "id": "0a45f5b0-6127-41ca-8037-6d76794c8ccc",
+      "type": "Person",
+      "score": "62",
+      "name": "Artis Gāga",
+      "sort-name": "Gāga, Artis",
+      "gender": "male",
+      "country": "LV",
+      "area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "name": "Latvia",
+        "sort-name": "Latvia"
+      },
+      "life-span": {
+        "begin": "1973-01-29",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "latvian"
+        }
+      ]
+    },
+    {
+      "id": "c78baefa-7750-4ddc-8488-571fb90ad1be",
+      "type": "Group",
+      "score": "62",
+      "name": "Gaga Girls",
+      "sort-name": "Gaga Girls",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c5e84101-9653-4b6f-96c7-f3977771f438",
+      "type": "Group",
+      "score": "50",
+      "name": "Howse of Gaga",
+      "sort-name": "Howse of Gaga",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0b66770c-add8-4d18-a367-bfbc38c4cf05",
+      "type": "Group",
+      "score": "41",
+      "name": "The Holy Sisters of the Gaga Dada",
+      "sort-name": "Holy Sisters of the Gaga Dada, The",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "name": "United States",
+        "sort-name": "United States"
+      },
+      "life-span": {
+        "begin": "1981",
+        "ended": null
+      }
+    },
+    {
+      "id": "08c2c240-4a7f-4833-a052-67b70207b1fe",
+      "type": "Group",
+      "score": "41",
+      "name": "Gaga Dilo",
+      "sort-name": "Gaga Dilo",
+      "life-span": {
+        "begin": "2002-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "GagaDilo",
+          "name": "GagaDilo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "34e37bbd-8134-4e16-b0c1-29c9dc1e11cd",
+      "type": "Group",
+      "score": "32",
+      "name": "Gaga Zielone Żabki",
+      "sort-name": "Gaga Zielone Żabki",
+      "area": {
+        "id": "eef70c80-8286-4776-a56e-1def26e86ff9",
+        "name": "Jawor",
+        "sort-name": "Jawor"
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

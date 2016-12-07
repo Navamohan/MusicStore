@@ -1,0 +1,49 @@
+﻿{
+  "label-info": [
+    {
+      "catalog-number": null,
+      "label": {
+        "id": "a58a54fa-83e4-489b-b83f-826c45c224a5",
+        "sort-name": "Denovali Records",
+        "label-code": null,
+        "name": "Denovali Records",
+        "disambiguation": ""
+      }
+    }
+  ],
+  "id": "e5ec5d12-87f0-4f25-b0fa-28a9f1729ef9",
+  "status": "Official",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "date": "2012",
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "",
+        "name": "[Worldwide]",
+        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+        "sort-name": "[Worldwide]",
+        "iso-3166-1-codes": [ "XW" ]
+      },
+      "date": "2012"
+    }
+  ],
+  "packaging-id": null,
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "country": "XW",
+  "quality": "normal",
+  "asin": null,
+  "barcode": "",
+  "disambiguation": "",
+  "cover-art-archive": {
+    "back": false,
+    "darkened": false,
+    "artwork": true,
+    "count": 2,
+    "front": true
+  },
+  "packaging": null,
+  "title": "The Samuel Jackson Five"
+}

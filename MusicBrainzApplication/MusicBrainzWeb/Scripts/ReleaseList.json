@@ -1,0 +1,452 @@
+﻿{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "name": "The Samuel Jackson Five",
+  "end_area": null,
+  "id": "0245b547-04a5-42df-8f75-eba5ba3b8061",
+  "sort-name": "Samuel Jackson Five, The",
+  "type": "Group",
+  "country": null,
+  "releases": [
+    {
+      "barcode": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "release-events": [
+        {
+          "date": "2005-09-14",
+          "area": {
+            "disambiguation": "",
+            "name": "Norway",
+            "iso-3166-1-codes": [ "NO" ],
+            "sort-name": "Norway",
+            "id": "6743d351-6f37-3049-9724-5041161fff4d"
+          }
+        }
+      ],
+      "date": "2005-09-14",
+      "id": "1611422d-00b3-41ac-931a-89cdc54a201f",
+      "media": [
+        {
+          "track-count": 11,
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "status": "Official",
+      "quality": "normal",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Easily Misunderstood",
+      "country": "NO"
+    },
+    {
+      "quality": "normal",
+      "packaging-id": null,
+      "packaging": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Same Same but Different",
+      "country": "NO",
+      "barcode": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "date": "2004",
+      "release-events": [
+        {
+          "date": "2004",
+          "area": {
+            "sort-name": "Norway",
+            "id": "6743d351-6f37-3049-9724-5041161fff4d",
+            "iso-3166-1-codes": [ "NO" ],
+            "name": "Norway",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "id": "5bee6482-be60-4f6c-91d9-e332e50f4347",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "",
+          "track-count": 8,
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "status": "Official"
+    },
+    {
+      "quality": "normal",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging": null,
+      "packaging-id": null,
+      "country": "BE",
+      "title": "Seasons in the Hum",
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "barcode": null,
+      "release-events": [
+        {
+          "date": "2014-06-16",
+          "area": {
+            "name": "Belgium",
+            "disambiguation": "",
+            "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+            "sort-name": "Belgium",
+            "iso-3166-1-codes": [ "BE" ]
+          }
+        }
+      ],
+      "date": "2014-06-16",
+      "id": "64f5e409-073c-4e91-98b4-ede7b68426ad",
+      "status": "Official",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "",
+          "track-count": 9,
+          "position": 1,
+          "format": "CD"
+        }
+      ]
+    },
+    {
+      "country": "NO",
+      "title": "Goodbye Melody Mountain",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": null,
+      "packaging": null,
+      "quality": "normal",
+      "status": "Official",
+      "media": [
+        {
+          "track-count": 8,
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "id": "761357a1-22b3-4032-8f3a-6f86b3720c38",
+      "date": "2008-11-10",
+      "release-events": [
+        {
+          "area": {
+            "id": "6743d351-6f37-3049-9724-5041161fff4d",
+            "sort-name": "Norway",
+            "iso-3166-1-codes": [ "NO" ],
+            "disambiguation": "",
+            "name": "Norway"
+          },
+          "date": "2008-11-10"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "barcode": "7071192001048"
+    },
+    {
+      "country": "DE",
+      "title": "The Samuel Jackson Five",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging": "Cardboard/Paper Sleeve",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "quality": "normal",
+      "status": "Official",
+      "media": [
+        {
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 11,
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "id": "835b1eba-d080-468f-b263-7c71dd3836a1",
+      "date": "2012",
+      "release-events": [
+        {
+          "area": {
+            "name": "Germany",
+            "disambiguation": "",
+            "sort-name": "Germany",
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "iso-3166-1-codes": [ "DE" ]
+          },
+          "date": "2012"
+        }
+      ],
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "barcode": "4024572532970"
+    },
+    {
+      "status": null,
+      "media": [
+        {
+          "title": "",
+          "format-id": null,
+          "track-count": 5,
+          "position": 1,
+          "format": null
+        }
+      ],
+      "id": "bc9a0e8f-4504-4812-a4dc-ae01f9ff48ee",
+      "disambiguation": "",
+      "status-id": null,
+      "barcode": null,
+      "title": "Sea Sides and Elsewhere",
+      "text-representation": {
+        "language": null,
+        "script": "Latn"
+      },
+      "packaging": null,
+      "packaging-id": null,
+      "quality": "normal"
+    },
+    {
+      "date": "2012",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "name": "[Worldwide]",
+            "iso-3166-1-codes": [ "XW" ],
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "sort-name": "[Worldwide]"
+          },
+          "date": "2012"
+        }
+      ],
+      "barcode": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "media": [
+        {
+          "position": 1,
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "track-count": 11
+        }
+      ],
+      "status": "Official",
+      "id": "e5ec5d12-87f0-4f25-b0fa-28a9f1729ef9",
+      "quality": "normal",
+      "title": "The Samuel Jackson Five",
+      "country": "XW",
+      "packaging": null,
+      "packaging-id": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      }
+    }
+  ],
+  "ipis": [ ],
+  "recordings": [
+    {
+      "title": "Let's Build a Sandcastle",
+      "id": "0a3c2d4a-ca71-4952-b479-9a6a250025a7",
+      "video": false,
+      "length": 222000,
+      "disambiguation": ""
+    },
+    {
+      "id": "1202128e-725a-4e5f-a69d-14d7290fee5b",
+      "title": "Locust Lowtalker",
+      "disambiguation": "",
+      "length": 334000,
+      "video": false
+    },
+    {
+      "id": "18a97953-3299-4c34-a8ca-c74289508289",
+      "title": "Electric Crayons",
+      "disambiguation": "",
+      "video": false,
+      "length": 170000
+    },
+    {
+      "id": "1c851360-fdc1-4d83-8613-4d84a0baad21",
+      "title": "Icarus",
+      "disambiguation": "",
+      "video": false,
+      "length": 320186
+    },
+    {
+      "video": false,
+      "length": 299000,
+      "disambiguation": "",
+      "title": "Face the Fax",
+      "id": "1ef45d69-672e-494c-88e0-5435bc933980"
+    },
+    {
+      "length": 144733,
+      "video": false,
+      "disambiguation": "",
+      "title": "Charlie Foxtrot Queen",
+      "id": "24389fee-1bd0-4139-b93b-d7a40a65af45"
+    },
+    {
+      "id": "4bcda0bc-2f49-4d48-83e7-da7641d02b5e",
+      "title": "How to Evade Your Obsessive Shadow",
+      "disambiguation": "",
+      "video": false,
+      "length": 524000
+    },
+    {
+      "length": 264000,
+      "video": false,
+      "disambiguation": "",
+      "title": "Honest Abe",
+      "id": "4fdc9701-ded5-4247-9305-a1f93f53a443"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "length": 165000,
+      "id": "580ee2cb-b9ee-4056-a619-5d78bcd91b03",
+      "title": "Clubbers Dream"
+    },
+    {
+      "disambiguation": "",
+      "length": 132000,
+      "video": false,
+      "id": "583be708-bf5f-40dd-8c95-e0c79d7056b6",
+      "title": "Low Entropy"
+    },
+    {
+      "title": "Goodbye Melody Mountain",
+      "id": "5f3397e2-c225-4911-8780-444e073c14d8",
+      "length": 149000,
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "length": 365000,
+      "id": "69d2c290-114a-4723-9d82-b7da1b757e34",
+      "title": "Eye Eat Lotus"
+    },
+    {
+      "length": 200946,
+      "video": false,
+      "disambiguation": "",
+      "title": "Easily Misunderstood",
+      "id": "7cfc29f2-6ee3-40da-a578-ff74a24c9e5a"
+    },
+    {
+      "id": "80786efd-2947-4a93-96d5-95f1eb1689cf",
+      "title": "Britney Spears 4 President",
+      "disambiguation": "",
+      "video": false,
+      "length": 416000
+    },
+    {
+      "id": "82e796ee-c9c5-4ae3-b909-931c25f79df8",
+      "title": "Counting Sheep (live)",
+      "disambiguation": "",
+      "length": 472000,
+      "video": false
+    },
+    {
+      "title": "A Perennial Candidate",
+      "id": "8fbbc85d-2eaa-40db-b31d-1a510cb228a6",
+      "length": 279000,
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "title": "Hey Now, Who Really Cares",
+      "id": "9071de87-9fe2-4089-a2c4-7894f7f1369b",
+      "length": 488000,
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "id": "973cc387-3c0b-4a43-b610-dda8bd711744",
+      "title": "Michael Collins Autograph",
+      "disambiguation": "",
+      "length": 429253,
+      "video": false
+    },
+    {
+      "length": 277160,
+      "video": false,
+      "disambiguation": "",
+      "title": "Ain't No Sunshine (SSY remix)",
+      "id": "9f22e309-8b13-4ccf-a83e-85485a474804"
+    },
+    {
+      "title": "After the Avalanche",
+      "id": "a56b1855-a746-4752-80f0-a63408788583",
+      "video": false,
+      "length": 112000,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "length": 249000,
+      "id": "a6b54836-32eb-4b69-a4ad-5b0fe23b8b3b",
+      "title": "Last Days of Disco in Etnedal"
+    },
+    {
+      "disambiguation": "",
+      "length": 238000,
+      "video": false,
+      "id": "b028c735-a9d1-47fe-bc68-4012310b7b02",
+      "title": "If You Show Off the Milk, Who’s Gonna Buy the Cow?"
+    },
+    {
+      "title": "Coalesce",
+      "id": "c706c85e-680d-42ed-9906-9d6c3549e536",
+      "video": false,
+      "length": 221000,
+      "disambiguation": ""
+    },
+    {
+      "length": 363000,
+      "video": false,
+      "disambiguation": "",
+      "title": "And Then We Met the Locals",
+      "id": "e23f61f2-0526-48df-9aa4-1700a08c0144"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "length": 256000,
+      "id": "f4c32055-4a1f-4963-96cf-88d92bb97d2d",
+      "title": "Counting Sheep"
+    }
+  ],
+  "gender": null,
+  "disambiguation": "",
+  "isnis": [ ],
+  "life-span": {
+    "ended": false,
+    "begin": null,
+    "end": null
+  },
+  "gender-id": null,
+  "begin_area": null,
+  "area": null
+}

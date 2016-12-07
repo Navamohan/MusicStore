@@ -1,0 +1,1227 @@
+﻿{
+  "release-offset": 0,
+  "releases": [
+    {
+      "packaging": "Jewel Case",
+      "label-info": [
+        {
+          "catalog-number": "HACD02",
+          "label": {
+            "id": "6c4d3ecc-5e32-45a0-b9a2-5cd62e7a2ba7",
+            "name": "Honest Abe",
+            "disambiguation": "",
+            "label-code": null,
+            "sort-name": "Honest Abe"
+          }
+        }
+      ],
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "id": "1611422d-00b3-41ac-931a-89cdc54a201f",
+      "barcode": "",
+      "release-events": [
+        {
+          "date": "2005-09-14",
+          "area": {
+            "sort-name": "Norway",
+            "disambiguation": "",
+            "iso-3166-1-codes": [ "NO" ],
+            "id": "6743d351-6f37-3049-9724-5041161fff4d",
+            "name": "Norway"
+          }
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "asin": null,
+      "cover-art-archive": {
+        "darkened": false,
+        "artwork": true,
+        "back": false,
+        "front": true,
+        "count": 1
+      },
+      "quality": "normal",
+      "date": "2005-09-14",
+      "country": "NO",
+      "status": "Official",
+      "title": "Easily Misunderstood",
+      "media": [
+        {
+          "track-offset": 0,
+          "track-count": 11,
+          "position": 1,
+          "tracks": [
+            {
+              "length": 346666,
+              "id": "904453e1-0745-30f1-9f71-63d52b75e88f",
+              "recording": {
+                "title": "Skinflick Dress Rehearsal",
+                "disambiguation": "",
+                "video": false,
+                "id": "a3aa51df-23ea-4850-97de-0e1a0605f4a8",
+                "length": 346666
+              },
+              "number": "1",
+              "title": "Skinflick Dress Rehearsal"
+            },
+            {
+              "length": 238453,
+              "id": "255c1721-dee3-3498-9c90-306a7979c47c",
+              "recording": {
+                "id": "b028c735-a9d1-47fe-bc68-4012310b7b02",
+                "length": 238000,
+                "video": false,
+                "disambiguation": "",
+                "title": "If You Show Off the Milk, Who’s Gonna Buy the Cow?"
+              },
+              "number": "2",
+              "title": "If You Show Off the Milk, Who’s Gonna Buy the Cow?"
+            },
+            {
+              "id": "eee9ffab-b13f-3c09-878d-6624f5e0be47",
+              "length": 200946,
+              "recording": {
+                "length": 200946,
+                "id": "7cfc29f2-6ee3-40da-a578-ff74a24c9e5a",
+                "video": false,
+                "disambiguation": "",
+                "title": "Easily Misunderstood"
+              },
+              "number": "3",
+              "title": "Easily Misunderstood"
+            },
+            {
+              "recording": {
+                "length": 144733,
+                "id": "24389fee-1bd0-4139-b93b-d7a40a65af45",
+                "video": false,
+                "disambiguation": "",
+                "title": "Charlie Foxtrot Queen"
+              },
+              "id": "820c5fcc-4995-302f-8660-142316dc0671",
+              "length": 144733,
+              "number": "4",
+              "title": "Charlie Foxtrot Queen"
+            },
+            {
+              "recording": {
+                "id": "427820e3-8bb0-4588-ba4e-752b4b4437b5",
+                "length": 357933,
+                "video": false,
+                "disambiguation": "",
+                "title": "Person Most Likely to Enjoy the Taste of Human Flesh"
+              },
+              "id": "546d5030-eb8b-389e-b498-7ba7c03f8df9",
+              "length": 357933,
+              "title": "Person Most Likely to Enjoy the Taste of Human Flesh",
+              "number": "5"
+            },
+            {
+              "number": "6",
+              "title": "Unimog",
+              "id": "5987638b-2cf0-3293-9615-2d4278cc266c",
+              "length": 441493,
+              "recording": {
+                "video": false,
+                "id": "922dfd78-1309-42b8-a0c0-9044ec77b6e0",
+                "length": 441493,
+                "title": "Unimog",
+                "disambiguation": ""
+              }
+            },
+            {
+              "length": 245506,
+              "id": "09040a53-6699-3125-986f-f10aec0dd604",
+              "recording": {
+                "title": "No Name",
+                "disambiguation": "",
+                "video": false,
+                "length": 245506,
+                "id": "80171d7e-428e-4bd1-9fe8-35afb2a7b39a"
+              },
+              "title": "No Name",
+              "number": "7"
+            },
+            {
+              "number": "8",
+              "title": "Song for Sarah",
+              "length": 308920,
+              "id": "3535fb22-555f-38c9-beb5-3e205cdd4f6f",
+              "recording": {
+                "id": "6a7c8361-0f6e-4ff1-b5c7-76aec71f595e",
+                "length": 308920,
+                "video": false,
+                "disambiguation": "",
+                "title": "Song for Sarah"
+              }
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 109213,
+                "id": "b42e385b-a6fd-4254-b0c6-9328d1c14309",
+                "title": "Psycho Derelict",
+                "disambiguation": ""
+              },
+              "id": "d7386e36-6178-3530-b043-7064dda8ba97",
+              "length": 109213,
+              "number": "9",
+              "title": "Psycho Derelict"
+            },
+            {
+              "recording": {
+                "id": "973cc387-3c0b-4a43-b610-dda8bd711744",
+                "length": 429253,
+                "video": false,
+                "disambiguation": "",
+                "title": "Michael Collins Autograph"
+              },
+              "id": "4bff6f59-0ba1-33a2-8608-7c55ce88b9f0",
+              "length": 429253,
+              "title": "Michael Collins Autograph",
+              "number": "10"
+            },
+            {
+              "recording": {
+                "video": false,
+                "id": "52a4a186-752c-4f42-b93d-9d9926661eba",
+                "length": 140240,
+                "title": "Switch Ambulance Trip",
+                "disambiguation": ""
+              },
+              "id": "baca399c-ee0c-3c12-b25d-b6185049d5f7",
+              "length": 140240,
+              "title": "Switch Ambulance Trip",
+              "number": "11"
+            }
+          ],
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": ""
+        }
+      ],
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "country": "NO",
+      "date": "2004",
+      "status": "Official",
+      "title": "Same Same but Different",
+      "asin": null,
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "quality": "normal",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "media": [
+        {
+          "track-offset": 0,
+          "track-count": 8,
+          "position": 1,
+          "tracks": [
+            {
+              "number": "1",
+              "title": "Counting Sheep",
+              "recording": {
+                "title": "Counting Sheep",
+                "disambiguation": "",
+                "video": false,
+                "length": 256000,
+                "id": "f4c32055-4a1f-4963-96cf-88d92bb97d2d"
+              },
+              "id": "377b746d-7c70-3472-a0fd-c8c42fe25246",
+              "length": 256000
+            },
+            {
+              "recording": {
+                "title": "Locust Lowtalker",
+                "disambiguation": "",
+                "video": false,
+                "length": 334000,
+                "id": "1202128e-725a-4e5f-a69d-14d7290fee5b"
+              },
+              "id": "f1d3a7b2-a815-3d28-ba0a-b49d4d10e75c",
+              "length": 334000,
+              "title": "Locust Lowtalker",
+              "number": "2"
+            },
+            {
+              "number": "3",
+              "title": "Clubbers Dream",
+              "length": 165000,
+              "id": "85a6659f-2263-389a-8a2c-744bc45d9415",
+              "recording": {
+                "id": "580ee2cb-b9ee-4056-a619-5d78bcd91b03",
+                "length": 165000,
+                "video": false,
+                "disambiguation": "",
+                "title": "Clubbers Dream"
+              }
+            },
+            {
+              "length": 265000,
+              "id": "78e519e3-bf50-3ecf-b4f5-d6009891eb65",
+              "recording": {
+                "title": "Sing Slow, Walk Fast",
+                "disambiguation": "",
+                "video": false,
+                "id": "e9e6c8d4-9af2-4fe3-ab80-f464411ece96",
+                "length": 265000
+              },
+              "number": "4",
+              "title": "Sing Slow, Walk Fast"
+            },
+            {
+              "recording": {
+                "video": false,
+                "id": "4fdc9701-ded5-4247-9305-a1f93f53a443",
+                "length": 264000,
+                "title": "Honest Abe",
+                "disambiguation": ""
+              },
+              "id": "1a0c4a5b-f5af-3af1-a115-1018b1104e3c",
+              "length": 264000,
+              "title": "Honest Abe",
+              "number": "5"
+            },
+            {
+              "title": "Same Same but Different",
+              "number": "6",
+              "length": 137000,
+              "id": "822b9816-d3c5-386c-84ff-c616e771e681",
+              "recording": {
+                "length": 137000,
+                "id": "c69fa63b-373c-4cfb-9dcd-4ed067a294cc",
+                "video": false,
+                "disambiguation": "",
+                "title": "Same Same but Different"
+              }
+            },
+            {
+              "recording": {
+                "id": "27282f67-39b5-48e2-a788-96217221fd5e",
+                "length": 391000,
+                "video": false,
+                "disambiguation": "",
+                "title": "Postman's Joke"
+              },
+              "length": 391000,
+              "id": "02069929-f7ab-38c8-bbb3-d3babe8e8f46",
+              "title": "Postman's Joke",
+              "number": "7"
+            },
+            {
+              "length": 416000,
+              "id": "8b35588a-1548-3dac-9e06-24bc454be2d3",
+              "recording": {
+                "disambiguation": "",
+                "title": "Britney Spears 4 President",
+                "id": "80786efd-2947-4a93-96d5-95f1eb1689cf",
+                "length": 416000,
+                "video": false
+              },
+              "title": "Britney Spears 4 President",
+              "number": "8"
+            }
+          ],
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": ""
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "HACD01",
+          "label": {
+            "id": "6c4d3ecc-5e32-45a0-b9a2-5cd62e7a2ba7",
+            "name": "Honest Abe",
+            "sort-name": "Honest Abe",
+            "disambiguation": "",
+            "label-code": null
+          }
+        }
+      ],
+      "packaging-id": null,
+      "packaging": null,
+      "release-events": [
+        {
+          "date": "2004",
+          "area": {
+            "sort-name": "Norway",
+            "disambiguation": "",
+            "iso-3166-1-codes": [ "NO" ],
+            "id": "6743d351-6f37-3049-9724-5041161fff4d",
+            "name": "Norway"
+          }
+        }
+      ],
+      "barcode": null,
+      "id": "5bee6482-be60-4f6c-91d9-e332e50f4347"
+    },
+    {
+      "date": "2014-06-16",
+      "country": "BE",
+      "status": "Official",
+      "title": "Seasons in the Hum",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "count": 1
+      },
+      "asin": null,
+      "quality": "normal",
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "tracks": [
+            {
+              "number": "1",
+              "title": "Coalesce",
+              "id": "3154955a-ea45-4619-853f-b2b33d146dcb",
+              "length": 221000,
+              "recording": {
+                "disambiguation": "",
+                "title": "Coalesce",
+                "id": "c706c85e-680d-42ed-9906-9d6c3549e536",
+                "length": 221000,
+                "video": false
+              }
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "Last Days of Disco in Etnedal",
+                "length": 249000,
+                "id": "a6b54836-32eb-4b69-a4ad-5b0fe23b8b3b",
+                "video": false
+              },
+              "id": "8cca5480-2f21-4d4d-9929-45005af2c82d",
+              "length": 249000,
+              "title": "Last Days of Disco in Etnedal",
+              "number": "2"
+            },
+            {
+              "title": "Old Country for No Men",
+              "number": "3",
+              "recording": {
+                "disambiguation": "",
+                "title": "Old Country for No Men",
+                "length": 146000,
+                "id": "2ad74c5e-3828-415b-8262-6172560e4329",
+                "video": false
+              },
+              "id": "8b4dab29-35f5-4beb-af3f-b27ab9ef1647",
+              "length": 146000
+            },
+            {
+              "number": "4",
+              "title": "Third Ear Listening Exercise",
+              "recording": {
+                "video": false,
+                "id": "e5dd76c8-2bf1-44bc-aee6-16bb856527f9",
+                "length": 352000,
+                "title": "Third Ear Listening Exercise",
+                "disambiguation": ""
+              },
+              "length": 352000,
+              "id": "a16d68a4-549a-495e-8ad5-24fa53c629bd"
+            },
+            {
+              "number": "5",
+              "title": "Mount Whateverest",
+              "recording": {
+                "title": "Mount Whateverest",
+                "disambiguation": "",
+                "video": false,
+                "id": "73686ee8-fcb6-4e44-8853-27a86947ba79",
+                "length": 125000
+              },
+              "id": "f83b5f2f-9b5c-4215-8fef-468d1245a698",
+              "length": 125000
+            },
+            {
+              "recording": {
+                "title": "Tremulous Summer Knights",
+                "disambiguation": "",
+                "video": false,
+                "length": 189000,
+                "id": "446c73ef-d978-45d5-967e-1420d3712fde"
+              },
+              "id": "5eea037b-3bb2-4bc2-b1e8-34a36ac6627f",
+              "length": 189000,
+              "number": "6",
+              "title": "Tremulous Summer Knights"
+            },
+            {
+              "number": "7",
+              "title": "Mid-Fi Winter Wonderland",
+              "recording": {
+                "video": false,
+                "length": 207000,
+                "id": "6d57abee-fb05-4d8f-b88a-834fbff6e506",
+                "title": "Mid-Fi Winter Wonderland",
+                "disambiguation": ""
+              },
+              "length": 207000,
+              "id": "8f456b55-fb90-4434-b5ee-a5a55c12d29b"
+            },
+            {
+              "recording": {
+                "video": false,
+                "id": "4a41702f-7741-4355-82f3-6941467a3030",
+                "length": 240000,
+                "title": "Vardebu, 960 Moh",
+                "disambiguation": ""
+              },
+              "id": "1b2476b2-6324-48d5-b5d5-161b3895b183",
+              "length": 240000,
+              "number": "8",
+              "title": "Vardebu, 960 Moh"
+            },
+            {
+              "id": "7a0b4f34-e952-4d01-8d6c-fe0332f0e7fb",
+              "length": 222000,
+              "recording": {
+                "disambiguation": "",
+                "title": "Let's Build a Sandcastle",
+                "id": "0a3c2d4a-ca71-4952-b479-9a6a250025a7",
+                "length": 222000,
+                "video": false
+              },
+              "number": "9",
+              "title": "Let's Build a Sandcastle"
+            }
+          ],
+          "format": "CD",
+          "title": "",
+          "track-count": 9,
+          "track-offset": 0,
+          "position": 1
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "disambiguation": "",
+            "label-code": null,
+            "sort-name": "Navalorama Records",
+            "name": "Navalorama Records",
+            "id": "ec8d8763-9348-4bbf-8719-63a6346d3612"
+          },
+          "catalog-number": "NVLRM06CD"
+        }
+      ],
+      "packaging-id": null,
+      "packaging": null,
+      "release-events": [
+        {
+          "date": "2014-06-16",
+          "area": {
+            "iso-3166-1-codes": [ "BE" ],
+            "name": "Belgium",
+            "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+            "disambiguation": "",
+            "sort-name": "Belgium"
+          }
+        }
+      ],
+      "barcode": null,
+      "id": "64f5e409-073c-4e91-98b4-ede7b68426ad"
+    },
+    {
+      "label-info": [
+        {
+          "catalog-number": "HACD004",
+          "label": {
+            "id": "6c4d3ecc-5e32-45a0-b9a2-5cd62e7a2ba7",
+            "name": "Honest Abe",
+            "sort-name": "Honest Abe",
+            "disambiguation": "",
+            "label-code": null
+          }
+        }
+      ],
+      "packaging-id": null,
+      "packaging": null,
+      "barcode": "7071192001048",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "sort-name": "Norway",
+            "iso-3166-1-codes": [ "NO" ],
+            "id": "6743d351-6f37-3049-9724-5041161fff4d",
+            "name": "Norway"
+          },
+          "date": "2008-11-10"
+        }
+      ],
+      "id": "761357a1-22b3-4032-8f3a-6f86b3720c38",
+      "status": "Official",
+      "title": "Goodbye Melody Mountain",
+      "country": "NO",
+      "date": "2008-11-10",
+      "quality": "normal",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "asin": null,
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "media": [
+        {
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "tracks": [
+            {
+              "recording": {
+                "id": "1ef45d69-672e-494c-88e0-5435bc933980",
+                "length": 299000,
+                "video": false,
+                "disambiguation": "",
+                "title": "Face the Fax"
+              },
+              "length": 299000,
+              "id": "e51db194-96dc-3fae-84ae-b0b9f7682941",
+              "number": "1",
+              "title": "Face the Fax"
+            },
+            {
+              "title": "Hey Now, Who Really Cares",
+              "number": "2",
+              "id": "db2acfd8-577d-33bb-91b6-bcb6ac4f9bbd",
+              "length": 488000,
+              "recording": {
+                "title": "Hey Now, Who Really Cares",
+                "disambiguation": "",
+                "video": false,
+                "length": 488000,
+                "id": "9071de87-9fe2-4089-a2c4-7894f7f1369b"
+              }
+            },
+            {
+              "number": "3",
+              "title": "After the Avalanche",
+              "id": "2c658327-a669-30a6-a130-ac99d17d0683",
+              "length": 112000,
+              "recording": {
+                "title": "After the Avalanche",
+                "disambiguation": "",
+                "video": false,
+                "id": "a56b1855-a746-4752-80f0-a63408788583",
+                "length": 112000
+              }
+            },
+            {
+              "title": "Eye Eat Lotus",
+              "number": "4",
+              "id": "bc9646ef-47a9-3e11-8312-40daa1b166f7",
+              "length": 365000,
+              "recording": {
+                "title": "Eye Eat Lotus",
+                "disambiguation": "",
+                "video": false,
+                "length": 365000,
+                "id": "69d2c290-114a-4723-9d82-b7da1b757e34"
+              }
+            },
+            {
+              "number": "5",
+              "title": "Goodbye Melody Mountain",
+              "length": 149000,
+              "id": "98d3eda8-14c0-37c3-8c6a-529a586ca782",
+              "recording": {
+                "id": "5f3397e2-c225-4911-8780-444e073c14d8",
+                "length": 149000,
+                "video": false,
+                "disambiguation": "",
+                "title": "Goodbye Melody Mountain"
+              }
+            },
+            {
+              "recording": {
+                "title": "So Many Cowboys, So Few Indians",
+                "disambiguation": "",
+                "video": false,
+                "id": "cf32a424-a6e7-4989-80e2-ca26f4c30c10",
+                "length": 409000
+              },
+              "id": "d62777c9-9c52-30d8-a5ee-58e03f77070a",
+              "length": 409000,
+              "number": "6",
+              "title": "So Many Cowboys, So Few Indians"
+            },
+            {
+              "title": "Slow Motion Simulator",
+              "number": "7",
+              "id": "5fb8cdd0-84ba-3eb2-8a06-35976bfd5529",
+              "length": 206000,
+              "recording": {
+                "title": "Slow Motion Simulator",
+                "disambiguation": "",
+                "video": false,
+                "id": "fb99c6fa-b6ad-4029-8838-c1d86c17b623",
+                "length": 206000
+              }
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 524000,
+                "id": "4bcda0bc-2f49-4d48-83e7-da7641d02b5e",
+                "title": "How to Evade Your Obsessive Shadow",
+                "disambiguation": ""
+              },
+              "id": "7698b02a-6e42-3225-8ab6-d7f9002e23a0",
+              "length": 524000,
+              "number": "8",
+              "title": "How to Evade Your Obsessive Shadow"
+            }
+          ],
+          "format": "CD",
+          "position": 1,
+          "track-count": 8,
+          "track-offset": 0
+        }
+      ]
+    },
+    {
+      "date": "2012",
+      "country": "DE",
+      "title": "The Samuel Jackson Five",
+      "status": "Official",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "front": false,
+        "artwork": false,
+        "back": false,
+        "count": 0
+      },
+      "asin": null,
+      "quality": "normal",
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "media": [
+        {
+          "tracks": [
+            {
+              "length": 199000,
+              "id": "348d8df1-41df-4c2a-bb80-308e0fecb1c3",
+              "recording": {
+                "id": "4ab2ab2f-06d3-4936-b9b3-64c6d32f9ad9",
+                "length": 198000,
+                "video": false,
+                "disambiguation": "",
+                "title": "Never-Ending Now"
+              },
+              "number": "1",
+              "title": "Never-Ending Now"
+            },
+            {
+              "length": 290000,
+              "id": "6085e77b-f1d2-475c-96ee-d107f5fada68",
+              "recording": {
+                "title": "Mocba",
+                "disambiguation": "",
+                "video": false,
+                "id": "9c59b9b9-bf3e-4229-8400-4464ef59ec1c",
+                "length": 287000
+              },
+              "number": "2",
+              "title": "Москва́"
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 170000,
+                "id": "18a97953-3299-4c34-a8ca-c74289508289",
+                "title": "Electric Crayons",
+                "disambiguation": ""
+              },
+              "length": 173000,
+              "id": "4fd9114f-3b85-495a-b77e-6a03e2abadfb",
+              "title": "Electric Crayons",
+              "number": "3"
+            },
+            {
+              "length": 274000,
+              "id": "599b53bc-fe3e-4b69-a3f9-b594ba7324f0",
+              "recording": {
+                "video": false,
+                "id": "b562a7b7-c1d1-4eda-99e6-550ee51631ab",
+                "length": 272000,
+                "title": "Radio Gagarin",
+                "disambiguation": ""
+              },
+              "title": "Radio Gagarin",
+              "number": "4"
+            },
+            {
+              "length": 166000,
+              "id": "d02f731b-a73d-4bbd-b658-1959b29153ba",
+              "recording": {
+                "video": false,
+                "id": "274a8722-a600-4ad7-b916-8b6f9f36e6f0",
+                "length": 164000,
+                "title": "Race to the Self-Destruct Button",
+                "disambiguation": ""
+              },
+              "number": "5",
+              "title": "Race to the Self-Destruct Button"
+            },
+            {
+              "length": 130000,
+              "id": "6a435f73-8acf-4b27-ada6-bf180fd3d885",
+              "recording": {
+                "title": "What Floats Her Boat",
+                "disambiguation": "",
+                "video": false,
+                "id": "321eec0c-29e9-4334-8098-6f903fe4167c",
+                "length": 130000
+              },
+              "title": "What Floats Her Boat",
+              "number": "6"
+            },
+            {
+              "number": "7",
+              "title": "Ten Crept In",
+              "recording": {
+                "title": "Ten Crept In",
+                "disambiguation": "",
+                "video": false,
+                "id": "d26f0244-3a1a-4f0d-8568-15252a4b3030",
+                "length": 217000
+              },
+              "length": 220000,
+              "id": "782539bb-7c46-4103-b463-c06f48f779fc"
+            },
+            {
+              "title": "A Perennial Candidate",
+              "number": "8",
+              "length": 280000,
+              "id": "1a6aa0c5-deaf-4052-9ad8-3e2430cb7342",
+              "recording": {
+                "title": "A Perennial Candidate",
+                "disambiguation": "",
+                "video": false,
+                "length": 279000,
+                "id": "8fbbc85d-2eaa-40db-b31d-1a510cb228a6"
+              }
+            },
+            {
+              "id": "13541316-a2dd-436e-8662-30d03d055dbd",
+              "length": 289000,
+              "recording": {
+                "video": false,
+                "id": "dcf9f64b-3c42-46b6-952f-494440cf5421",
+                "length": 289000,
+                "title": "Tremulous Silence",
+                "disambiguation": ""
+              },
+              "number": "9",
+              "title": "Tremulous Silence"
+            },
+            {
+              "recording": {
+                "id": "e23f61f2-0526-48df-9aa4-1700a08c0144",
+                "length": 363000,
+                "video": false,
+                "disambiguation": "",
+                "title": "And Then We Met the Locals"
+              },
+              "id": "cfdd4b94-84df-404f-b205-ac702d26fd05",
+              "length": 367000,
+              "title": "… And Then We Met the Locals",
+              "number": "10"
+            },
+            {
+              "number": "11",
+              "title": "Low Entropy",
+              "recording": {
+                "title": "Low Entropy",
+                "disambiguation": "",
+                "video": false,
+                "length": 132000,
+                "id": "583be708-bf5f-40dd-8c95-e0c79d7056b6"
+              },
+              "length": 133000,
+              "id": "e604237e-92e9-4c29-95cb-f98865a2a20c"
+            }
+          ],
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-offset": 0,
+          "track-count": 11,
+          "position": 1
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "DEN 130",
+          "label": {
+            "id": "a58a54fa-83e4-489b-b83f-826c45c224a5",
+            "name": "Denovali Records",
+            "sort-name": "Denovali Records",
+            "disambiguation": "",
+            "label-code": null
+          }
+        }
+      ],
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "packaging": "Cardboard/Paper Sleeve",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "Germany",
+            "disambiguation": "",
+            "iso-3166-1-codes": [ "DE" ],
+            "name": "Germany",
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+          },
+          "date": "2012"
+        }
+      ],
+      "barcode": "4024572532970",
+      "id": "835b1eba-d080-468f-b263-7c71dd3836a1"
+    },
+    {
+      "id": "bc9a0e8f-4504-4812-a4dc-ae01f9ff48ee",
+      "media": [
+        {
+          "track-offset": 0,
+          "track-count": 5,
+          "position": 1,
+          "tracks": [
+            {
+              "title": "White Lodge, Black Sheep",
+              "number": "1",
+              "recording": {
+                "disambiguation": "",
+                "title": "White Lodge, Black Sheep",
+                "id": "c151aa29-373f-47a7-8872-ae8f26d82d6e",
+                "length": 313000,
+                "video": false
+              },
+              "id": "8b15b78a-9954-36f7-b7f5-389993af2345",
+              "length": 313000
+            },
+            {
+              "title": "Unimog (demo)",
+              "number": "2",
+              "id": "0746929c-44ae-3fff-b6ff-c725a53a6874",
+              "length": 428000,
+              "recording": {
+                "video": false,
+                "id": "f2a04601-30d5-457f-a4cf-b885c52115e7",
+                "length": 428000,
+                "title": "Unimog (demo)",
+                "disambiguation": ""
+              }
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "Them Trees",
+                "id": "af3f761e-f3de-4da2-86b7-cb624686aebc",
+                "length": 74000,
+                "video": false
+              },
+              "id": "3229cacb-d192-35d9-bc9d-a392bdc95c97",
+              "length": 74000,
+              "title": "Them Trees",
+              "number": "3"
+            },
+            {
+              "number": "4",
+              "title": "Organ Grinder Waltz",
+              "id": "276fd286-d65e-3882-b6b7-c9d10b0603f9",
+              "length": 204000,
+              "recording": {
+                "disambiguation": "",
+                "title": "Organ Grinder Waltz",
+                "id": "0d49495d-ccd3-475b-976f-5f3bb1dfa70e",
+                "length": 204000,
+                "video": false
+              }
+            },
+            {
+              "number": "5",
+              "title": "Counting Sheep (live)",
+              "recording": {
+                "disambiguation": "",
+                "title": "Counting Sheep (live)",
+                "id": "82e796ee-c9c5-4ae3-b909-931c25f79df8",
+                "length": 472000,
+                "video": false
+              },
+              "length": 472000,
+              "id": "7a8abe26-b3ec-374c-bc0c-58bef3f96585"
+            }
+          ],
+          "format": null,
+          "format-id": null,
+          "title": ""
+        }
+      ],
+      "status-id": null,
+      "barcode": null,
+      "disambiguation": "",
+      "asin": null,
+      "cover-art-archive": {
+        "count": 0,
+        "darkened": false,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "packaging": null,
+      "text-representation": {
+        "language": null,
+        "script": "Latn"
+      },
+      "quality": "normal",
+      "title": "Sea Sides and Elsewhere",
+      "label-info": [ ],
+      "packaging-id": null,
+      "status": null
+    },
+    {
+      "quality": "normal",
+      "asin": null,
+      "cover-art-archive": {
+        "count": 2,
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "darkened": false
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "The Samuel Jackson Five",
+      "status": "Official",
+      "country": "XW",
+      "date": "2012",
+      "media": [
+        {
+          "track-offset": 0,
+          "track-count": 11,
+          "position": 1,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "tracks": [
+            {
+              "title": "Never-Ending Now",
+              "number": "1",
+              "recording": {
+                "disambiguation": "",
+                "title": "Never-Ending Now",
+                "id": "4ab2ab2f-06d3-4936-b9b3-64c6d32f9ad9",
+                "length": 198000,
+                "video": false
+              },
+              "id": "21c4c787-a39f-30ea-8c07-572c577d5cb8",
+              "length": 198000
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "Mocba",
+                "length": 287000,
+                "id": "9c59b9b9-bf3e-4229-8400-4464ef59ec1c",
+                "video": false
+              },
+              "length": 287000,
+              "id": "85388cba-357e-3aab-ab8e-9ada4d89383d",
+              "number": "2",
+              "title": "Mocba"
+            },
+            {
+              "number": "3",
+              "title": "Electric Crayons",
+              "recording": {
+                "length": 170000,
+                "id": "18a97953-3299-4c34-a8ca-c74289508289",
+                "video": false,
+                "disambiguation": "",
+                "title": "Electric Crayons"
+              },
+              "length": 170000,
+              "id": "b18aa8eb-2e1a-380b-a21a-3872bf77ce9a"
+            },
+            {
+              "id": "90bf0da3-ab1e-3528-80e3-e6e969aa6de4",
+              "length": 272000,
+              "recording": {
+                "length": 272000,
+                "id": "b562a7b7-c1d1-4eda-99e6-550ee51631ab",
+                "video": false,
+                "disambiguation": "",
+                "title": "Radio Gagarin"
+              },
+              "number": "4",
+              "title": "Radio Gagarin"
+            },
+            {
+              "title": "Race to the Self-Destruct Button",
+              "number": "5",
+              "length": 164000,
+              "id": "71b3b45b-c1a8-3253-b304-eb036f0a30fb",
+              "recording": {
+                "title": "Race to the Self-Destruct Button",
+                "disambiguation": "",
+                "video": false,
+                "length": 164000,
+                "id": "274a8722-a600-4ad7-b916-8b6f9f36e6f0"
+              }
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 130000,
+                "id": "321eec0c-29e9-4334-8098-6f903fe4167c",
+                "title": "What Floats Her Boat",
+                "disambiguation": ""
+              },
+              "id": "7be7b1a1-754f-3619-9793-78e86940ffe6",
+              "length": 130000,
+              "number": "6",
+              "title": "What Floats Her Boat"
+            },
+            {
+              "title": "Ten Crept In",
+              "number": "7",
+              "id": "aaef967e-6c10-37ae-b585-ea5ef218d73e",
+              "length": 217000,
+              "recording": {
+                "video": false,
+                "length": 217000,
+                "id": "d26f0244-3a1a-4f0d-8568-15252a4b3030",
+                "title": "Ten Crept In",
+                "disambiguation": ""
+              }
+            },
+            {
+              "number": "8",
+              "title": "A Perennial Candidate",
+              "recording": {
+                "video": false,
+                "id": "8fbbc85d-2eaa-40db-b31d-1a510cb228a6",
+                "length": 279000,
+                "title": "A Perennial Candidate",
+                "disambiguation": ""
+              },
+              "length": 279000,
+              "id": "320b29bf-e7be-3ff7-8779-ad09bf1f0782"
+            },
+            {
+              "number": "9",
+              "title": "Tremulous Silence",
+              "recording": {
+                "video": false,
+                "id": "dcf9f64b-3c42-46b6-952f-494440cf5421",
+                "length": 289000,
+                "title": "Tremulous Silence",
+                "disambiguation": ""
+              },
+              "id": "acb0497c-d70b-36ac-b827-45ecf296c58f",
+              "length": 289000
+            },
+            {
+              "number": "10",
+              "title": "And Then We Met the Locals",
+              "id": "b5a99f6b-aa8b-3a5e-b74e-702bddfdb0e5",
+              "length": 363000,
+              "recording": {
+                "id": "e23f61f2-0526-48df-9aa4-1700a08c0144",
+                "length": 363000,
+                "video": false,
+                "disambiguation": "",
+                "title": "And Then We Met the Locals"
+              }
+            },
+            {
+              "id": "73d45a10-794a-3058-9c6f-22e9501c64a7",
+              "length": 132000,
+              "recording": {
+                "id": "583be708-bf5f-40dd-8c95-e0c79d7056b6",
+                "length": 132000,
+                "video": false,
+                "disambiguation": "",
+                "title": "Low Entropy"
+              },
+              "number": "11",
+              "title": "Low Entropy"
+            }
+          ],
+          "format": "Digital Media",
+          "title": ""
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "packaging": null,
+      "label-info": [
+        {
+          "label": {
+            "sort-name": "Denovali Records",
+            "label-code": null,
+            "disambiguation": "",
+            "name": "Denovali Records",
+            "id": "a58a54fa-83e4-489b-b83f-826c45c224a5"
+          },
+          "catalog-number": null
+        }
+      ],
+      "packaging-id": null,
+      "id": "e5ec5d12-87f0-4f25-b0fa-28a9f1729ef9",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "[Worldwide]",
+            "disambiguation": "",
+            "name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [ "XW" ]
+          },
+          "date": "2012"
+        }
+      ],
+      "barcode": ""
+    }
+  ],
+  "release-count": 7
+}
